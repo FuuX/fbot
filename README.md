@@ -25,7 +25,7 @@ CLIENT_INFO - Funkcja służaca do wyświetlenia informacji o kliencie gdy ten w
 
 CREATE_PRIVATE_CHANNEL - Funkcja służąca do stworzenia kanału prywatnego gdy użytkownik wejdzie na odpowiedni kanał.  
 
-~~DDOS_ATTACK - Funkcja służaca do informowania gdy packetlosst serwera zwiększy się do danej liczby.  ~~
+~~DDOS_ATTACK - Funkcja służaca do informowania gdy packetlosst serwera zwiększy się do danej liczby.~~  
 
 GROUPS_LIMIT - Funkcja służaca do dopilnowania aby każdy użytkownik na serwerze nie posiadał wiecej grup niż jest limit.  
 
