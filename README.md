@@ -3,7 +3,7 @@
 [Instancja 1] [stan na 26.09.2018][21:48]
 
 
-~~ADMIN_LIST - Funkcja wpisująca w opis kanał listę wszystkich administratorów z podanych grup.~~  
+~~ADMIN_LIST - Funkcja wpisująca w opis kanał listę wszystkich administratorów z podanych grup.~~
 
 ADMINS_ONLINE - Funkcja wpisująca w nazwę kanału ilość dostąpnych administratorów,a w jego opis listę dostępnych adminów.  
 
