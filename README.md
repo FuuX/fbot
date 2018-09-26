@@ -1,6 +1,6 @@
 # fbot
 
-[Instancja 1] [stan na 26.09.2018][21:48]
+[Instancja 1] [stan na 26.09.2018][23:52]
 
 
 ~~ADMIN_LIST - Funkcja wpisująca w opis kanał listę wszystkich administratorów z podanych grup.~~
@@ -37,7 +37,7 @@ ONLINE_FROM_GROUP - Funkcja wpisująca w nazwę kanału ilość osób z grupy, a
 
 ~~POKE_ADMINS - Funkcja służąca do zaczepiania dostępnych administratorów gdy ktoś wejdzie na kanał pomocy.~~  
 
-**RECORD_ONLINE - Funkcja odpowiadająca za spisywanie największej ilości osób na serwerze,a następnie wpisywania to na kanał.**  
+~~RECORD_ONLINE - Funkcja odpowiadająca za spisywanie największej ilości osób na serwerze,a następnie wpisywania to na kanał.~~  
 
 ~~SERVERGROUPS_SECURITY - Funkcja służaca do chronienia grup~~  
 
