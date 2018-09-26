@@ -3,15 +3,15 @@
 [Instancja 1] [stan na 26.09.2018]
 
 
-~~ADMIN_LIST - Funkcja wpisująca w opis kanał listę wszystkich administratorów z podanych grup.~~
-ADMINS_ONLINE - Funkcja wpisująca w nazwę kanału ilość dostąpnych administratorów,a w jego opis listę dostępnych adminów.
-ANTY_RECORD - Funkcja służaca do sprawdzania czy użytkownicy nie nagrywają na kanałach.
-AUTO_REGISTER - Funkcja odpowiadająca za automatyczne nadanie grupy użytkownikowi gdy ten spędzi na serwerze odpowiedni czas.
-BAD_NICKNAMES - Funkcja służaca do sprawdzania czy użytkownik nie posiada w nazwie niedozwolonego nicku.
-CHANNEL_ADD_GROUP - Funkcja odpowiadająca za nadanie lub zdjęcie grupy gdy użytkownik wejdzie na kanał.
-~~CHANNEL_REGISTER - Funkcja odpowiadająca za rejestrację użytkownika gdy ten wejdzie na kanał.~~
-CLIENT_CHANNEL_STATUS - Funkcja wpisująca w nazwę kanału status administratora.
-CLIENT_PERMISSIONS_SECURITY - Funkcja służaca do wykrywania i usuwania permisji użytkownikom.
+~~ADMIN_LIST - Funkcja wpisująca w opis kanał listę wszystkich administratorów z podanych grup.~~__
+ADMINS_ONLINE - Funkcja wpisująca w nazwę kanału ilość dostąpnych administratorów,a w jego opis listę dostępnych adminów.__
+ANTY_RECORD - Funkcja służaca do sprawdzania czy użytkownicy nie nagrywają na kanałach.__
+AUTO_REGISTER - Funkcja odpowiadająca za automatyczne nadanie grupy użytkownikowi gdy ten spędzi na serwerze odpowiedni czas.__
+BAD_NICKNAMES - Funkcja służaca do sprawdzania czy użytkownik nie posiada w nazwie niedozwolonego nicku.__
+CHANNEL_ADD_GROUP - Funkcja odpowiadająca za nadanie lub zdjęcie grupy gdy użytkownik wejdzie na kanał.__
+~~CHANNEL_REGISTER - Funkcja odpowiadająca za rejestrację użytkownika gdy ten wejdzie na kanał.~~__
+CLIENT_CHANNEL_STATUS - Funkcja wpisująca w nazwę kanału status administratora.__
+CLIENT_PERMISSIONS_SECURITY - Funkcja służaca do wykrywania i usuwania permisji użytkownikom.__
 CLIENT_INFO - Funkcja służaca do wyświetlenia informacji o kliencie gdy ten wejdzie na odpowiedni kanał.
 CREATE_PRIVATE_CHANNEL - Funkcja służąca do stworzenia kanału prywatnego gdy użytkownik wejdzie na odpowiedni kanał.
 **DDOS_ATTACK - Funkcja służaca do informowania gdy packetlosst serwera zwiększy się do danej liczby.**
