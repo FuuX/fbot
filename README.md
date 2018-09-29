@@ -1,6 +1,6 @@
 # fbot
 
-[Instancja 1] [stan na 29.09.2018][15:12]
+[Instancja 1] [stan na 29.09.2018][16:02]
 
 
 ~~ADMIN_LIST - Funkcja wpisująca w opis kanał listę wszystkich administratorów z podanych grup.~~
