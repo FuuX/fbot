@@ -47,5 +47,5 @@ ONLINE_FROM_GROUP - Funkcja wpisująca w nazwę kanału ilość osób z grupy, a
 
 //
 ~~strike~~ -> zrobione oraz sprawdzone  
-**bold** -> nastepne lub w trakcie pracy 
+**bold** -> nastepne lub w trakcie pracy   
 *italic* -> chwilowo zawieszone
