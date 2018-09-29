@@ -1,6 +1,6 @@
 # fbot
 
-[Instancja 1] [stan na 26.09.2018][23:52]
+[Instancja 1] [stan na 29.09.2018][15:12]
 
 
 ~~ADMIN_LIST - Funkcja wpisująca w opis kanał listę wszystkich administratorów z podanych grup.~~
@@ -11,7 +11,7 @@ ANTY_RECORD - Funkcja służaca do sprawdzania czy użytkownicy nie nagrywają n
 
 **AUTO_REGISTER - Funkcja odpowiadająca za automatyczne nadanie grupy użytkownikowi gdy ten spędzi na serwerze odpowiedni czas.**   
 
-**BAD_NICKNAMES - Funkcja służaca do sprawdzania czy użytkownik nie posiada w nazwie niedozwolonego nicku.**  
+~~BAD_NICKNAMES - Funkcja służaca do sprawdzania czy użytkownik nie posiada w nazwie niedozwolonego nicku.~~  
 
 CHANNEL_ADD_GROUP - Funkcja odpowiadająca za nadanie lub zdjęcie grupy gdy użytkownik wejdzie na kanał.  
 
