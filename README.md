@@ -7,7 +7,7 @@
 
 ADMINS_ONLINE - Funkcja wpisująca w nazwę kanału ilość dostąpnych administratorów,a w jego opis listę dostępnych adminów.  
 
-ANTY_RECORD - Funkcja służaca do sprawdzania czy użytkownicy nie nagrywają na kanałach.  
+~~ANTY_RECORD - Funkcja służaca do sprawdzania czy użytkownicy nie nagrywają na kanałach.~~    
 
 **AUTO_REGISTER - Funkcja odpowiadająca za automatyczne nadanie grupy użytkownikowi gdy ten spędzi na serwerze odpowiedni czas.**   
 
