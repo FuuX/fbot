@@ -17,7 +17,7 @@ CHANNEL_ADD_GROUP - Funkcja odpowiadająca za nadanie lub zdjęcie grupy gdy uż
 
 ~~CHANNEL_REGISTER - Funkcja odpowiadająca za rejestrację użytkownika gdy ten wejdzie na kanał.~~  
 
-**CLIENT_CHANNEL_STATUS - Funkcja wpisująca w nazwę kanału status administratora.**  
+~~ADMIN_STATUS - Funkcja wpisująca w nazwę kanału status administratora.~~  
 
 CLIENT_PERMISSIONS_SECURITY - Funkcja służaca do wykrywania i usuwania permisji użytkownikom.  
 
