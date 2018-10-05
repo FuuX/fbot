@@ -1,11 +1,11 @@
 # fbot
 
-[Instancja 1] [stan na 29.09.2018][16:04]
+[Instancja 1] [stan na 05.10.2018][18:56]
 
 
 ~~ADMIN_LIST - Funkcja wpisująca w opis kanał listę wszystkich administratorów z podanych grup.~~
 
-ADMINS_ONLINE - Funkcja wpisująca w nazwę kanału ilość dostąpnych administratorów,a w jego opis listę dostępnych adminów.  
+*ADMINS_ONLINE - Funkcja wpisująca w nazwę kanału ilość dostąpnych administratorów.*
 
 ~~ANTY_RECORD - Funkcja służaca do sprawdzania czy użytkownicy nie nagrywają na kanałach.~~    
 
@@ -21,13 +21,13 @@ CHANNEL_ADD_GROUP - Funkcja odpowiadająca za nadanie lub zdjęcie grupy gdy uż
 
 CLIENT_PERMISSIONS_SECURITY - Funkcja służaca do wykrywania i usuwania permisji użytkownikom.  
 
-**CLIENT_INFO - Funkcja służaca do wyświetlenia informacji o kliencie gdy ten wejdzie na odpowiedni kanał.**  
+~~CLIENT_INFO - Funkcja służaca do wyświetlenia informacji o kliencie gdy ten wejdzie na odpowiedni kanał.~~  
 
-CREATE_PRIVATE_CHANNEL - Funkcja służąca do stworzenia kanału prywatnego gdy użytkownik wejdzie na odpowiedni kanał.  
+**CREATE_PRIVATE_CHANNEL - Funkcja służąca do stworzenia kanału prywatnego gdy użytkownik wejdzie na odpowiedni kanał.**  
 
 ~~DDOS_ATTACK - Funkcja służaca do informowania gdy packetlosst serwera zwiększy się do danej liczby.~~  
 
-*GROUPS_LIMIT - Funkcja służaca do dopilnowania aby każdy użytkownik na serwerze nie posiadał wiecej grup niż jest limit.*  
+GROUPS_LIMIT - Funkcja służaca do dopilnowania aby każdy użytkownik na serwerze nie posiadał wiecej grup niż jest limit. - anulowane/zawieszone   
 
 ~~HELP_CHANNELS - Funkcja służaca do otwierania/zamykania centrum pomocy gdy jest to potrzebne.~~  
 
