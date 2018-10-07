@@ -9,7 +9,7 @@
 
 ~~ANTY_RECORD - Funkcja służaca do sprawdzania czy użytkownicy nie nagrywają na kanałach.~~    
 
-*AUTO_REGISTER - Funkcja odpowiadająca za automatyczne nadanie grupy użytkownikowi gdy ten spędzi na serwerze odpowiedni czas.*     
+~~AUTO_REGISTER - Funkcja odpowiadająca za automatyczne nadanie grupy użytkownikowi gdy ten spędzi na serwerze odpowiedni czas.~~  
 
 ~~BAD_NICKNAMES - Funkcja służaca do sprawdzania czy użytkownik nie posiada w nazwie niedozwolonego nicku.~~  
 
