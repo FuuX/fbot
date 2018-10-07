@@ -31,7 +31,7 @@ GROUPS_LIMIT - Funkcja służaca do dopilnowania aby każdy użytkownik na serwe
 
 ~~MULTI_FUNCTION - Funkcja wpisująca w nazwy kanałów różne informacje.~~  
 
-ONLINE_FROM_GROUP - Funkcja wpisująca w nazwę kanału ilość osób z grupy, a w opis ich listę.  
+ONLINE_FROM_GROUP - Funkcja wpisująca w nazwę kanału ilość osób z grupy, a w opis ich listę./zawieszone  
 
 ~~POKE_ADMINS - Funkcja służąca do zaczepiania dostępnych administratorów gdy ktoś wejdzie na kanał pomocy.~~  
 
