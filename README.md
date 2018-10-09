@@ -13,7 +13,7 @@
 
 ~~BAD_NICKNAMES - Funkcja służaca do sprawdzania czy użytkownik nie posiada w nazwie niedozwolonego nicku.~~  
 
-CHANNEL_ADD_GROUP - Funkcja odpowiadająca za nadanie lub zdjęcie grupy gdy użytkownik wejdzie na kanał.  
+~~CHANNEL_ADD_GROUP - Funkcja odpowiadająca za nadanie lub zdjęcie grupy gdy użytkownik wejdzie na kanał.~~    
 
 ~~CHANNEL_REGISTER - Funkcja odpowiadająca za rejestrację użytkownika gdy ten wejdzie na kanał.~~  
 
